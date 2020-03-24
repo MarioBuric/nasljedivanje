@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.exe.config
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.exe
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.pdb
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.exe
+C:\Users\korisnik\source\repos\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.pdb
